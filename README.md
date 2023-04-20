@@ -1,9 +1,9 @@
 # Go-Sah
 
 • الأوامر :
-- ?What Do You Want To Search For
+- What Do You Want To Search For?
 اكتب الشيء الذي تريد البحث عنه
-- ?How Many Result You Want
+- How Many Result You Want?
 اكتب عدد النتائج الذي تريدها
 
 • المميزات
@@ -11,5 +11,5 @@
 - التثبيت التلقائي للمكاتب المطلوبة ( beautifulsoup4 - googlesearch - os ) في حال لم تكن مثبتة على جهازك ✔️
 
 • ملاحظات :
-بعد إستخدامك للأداة ستنشئ ملف اسمه-  .google-cookie وهذا شيء عادي لا داعي للقلق منه.
+- بعد إستخدامك للأداة ستنشئ ملف اسمه .google-cookie وهذا شيء عادي لا داعي للقلق منه.
 
