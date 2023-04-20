@@ -1,15 +1,15 @@
 # Go-Sah
-Used For Google Search
 
-• Commands :
-- What Do You Want To Search For?
-- Write The Thing You want To Sarch For
-- How Many Result You Want?
-- Write In The Number Of Results You Want
+• الأوامر :
+- ?What Do You Want To Search For
+اكتب الشيء الذي تريد البحث عنه
+- ?How Many Result You Want
+اكتب عدد النتائج الذي تريدها
 
-• Features
-- Free And Open Source ✔️
-- Auto Installation Of The Required Moduls ( beautifulsoup4 - googlesearch - os ) If They Aren’t Installed On Your Device ✔️
+• المميزات
+- مجانية ومفتوحة المصدر ✔️
+- التثبيت التلقائي للمكاتب المطلوبة ( beautifulsoup4 - googlesearch - os ) في حال لم تكن مثبتة على جهازك ✔️
 
-• Comments :
-- After Using The Tool You Will Create A File Named.google-cookie And This is A Normal Thing That You Do Not Have To Worry About
+• ملاحظات :
+بعد إستخدامك للأداة ستنشئ ملف اسمه-  .google-cookie وهذا شيء عادي لا داعي للقلق منه.
+
